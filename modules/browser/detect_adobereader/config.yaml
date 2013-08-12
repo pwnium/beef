@@ -8,8 +8,8 @@ beef:
         detect_adobereader:
             enable: true
             category: "Browser"
-            name: "Detect Adobe Reader"
-            description: "This module will check if the browser has Adobe Reader Plugin and return version."
+            name: "Detect Adobe Reader version"
+            description: "This module will check if the browser has Adobe Reader Plugin and return the version."
             authors: ["Hessam Salehi - Hessam.salehi@owasp.org"]
             target:
                 working: ["All"]
